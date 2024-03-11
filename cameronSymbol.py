@@ -15,7 +15,7 @@ woodHandle = c.create_polygon(a, fill = 'goldenrod', outline = 'black')
 
 woodHandleShadow = c.create_polygon(b, fill = 'darkgoldenrod', outline = 'darkgoldenrod')
  
-axeButt = c.create_polygon(c, fill = 'goldenrod', outline = 'black')
+axeButt = c.create_polygon(s, fill = 'goldenrod', outline = 'black')
 
 axeButtShadow = c.create_polygon(d, fill = 'darkgoldenrod', outline = 'darkgoldenrod')
 
@@ -53,10 +53,7 @@ blackUnderLeft = c.create_line(q, fill = 'black', width = dubz)
 
 blackUnderRight = c.create_line(r, fill = 'black', width = dubz)
 
-
-
-
-
+root.mainloop()
 
 
 
