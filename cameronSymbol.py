@@ -1,4 +1,5 @@
 from tkinter import*
+from points import*
 
 root = Tk()
 root.geometry('300x300')
